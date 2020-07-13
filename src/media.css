@@ -1,0 +1,199 @@
+@media only screen and (min-width: 1200px) {
+    .top_line .any {
+        width: 1096px;
+    }
+    .top_line .card_body_block .choice {
+        width: 510px;
+    }
+    .ui.five.cards>.card {
+        padding: 10px;
+    }
+    .selectionMiddle .book_card_magaz .ListPrice{
+        color: #000;
+        font-size: 1.1em;
+        margin: 29px 0px 0px 20px;
+    }
+}
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+    .top_line .card_body_block .choice {
+        margin: 0px 0px 0px 46px;
+        width: 80%;
+        padding: 2px 0px 0px 0px;
+    }
+    .ui.five.cards>.card {
+        padding: 3px;
+    }
+}
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+    .col-md-2 {
+        padding: 0;
+    }
+    .top_line .logo img {
+        margin-top: 5px;
+        margin-left: 6px;
+    }
+    .top_line .card_body_block .choice {
+        margin: 3px 1px 2px 87px;
+        width: 40%;
+        padding: 0;
+    }
+    .ui.five.cards>.card {
+        padding: 3px;
+    }
+    .ui .item .ui input {
+        width: 270px;
+    }
+    .ui.card>.content>.header:not(.ui), .ui.cards>.card>.content>.header:not(.ui) {
+        font-size: 1em;
+        margin: 0px 0px 1px -10px;
+    }
+    .selectionMiddle .ListRight button {
+        padding: 6px 15px 6px 15px;
+    }
+    .selectionMiddle .book_card_magaz .ListPrice {
+        font-size: 1em;
+        margin: 29px 0px 0px 15px;
+    }
+
+}
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+    .top_line .logo img {
+        height: 33px;
+        width: 48px;
+    }
+    .top_line .delivery {
+        line-height: 20px;
+        text-align: center;
+        font-size: 0.9em;
+        margin-top: 7px;
+    }
+    .top_line .round_the_clock {
+        line-height: 20px;
+        font-size: 0.9em;
+    }
+    .top_line .card_body_block .choice {
+        margin: 2px;
+        width: 80%;
+        padding: 0;
+    }
+    .top_line .card_body_block .choice span {
+        font-size: 0.9em;
+    }
+
+    .top_line .card_body_block .col-sm-2, .col-sm-6 {
+        padding: 0;
+    }
+    .top_line .card_body_block {
+        font-size: 0.9em;
+    }
+    .top_line .round_the_clock {
+        display: none;
+    }
+
+    .ui.secondary.menu .item {
+        padding: 4px;
+    }
+
+    .ui .item .ui input {
+        width: 183px;
+    }
+    .selectionMiddle .book_card_magaz .ListContent {
+        margin: 0;
+    }
+}
+@media only screen and (max-width : 480px) {
+    .ui.container {
+        width: 0;
+        margin: 0;
+    }
+    .top_line .logo img {
+        height: 33px;
+        width: 48px;
+    }
+    .top_line .delivery {
+        line-height: 20px;
+        text-align: center;
+        font-size: 0.7em;
+        margin-top: 7px;
+    }
+    .top_line .col-3, .col-9, .col-5 {
+        padding: 0 3px;
+    }
+    .top_line .round_the_clock {
+        display: none;
+    }
+
+    .top_line .card_body_block .col-0 {
+        display: none;
+    }
+
+    .ui.secondary.menu .item {
+        padding: 7px 15px 3px 12px;
+        margin: 5px 0px 3px 5px;
+        font-size: 0.9em;
+    }
+
+    .ui .item .ui input {
+        width: 183px;
+    }
+
+    .top_line .logo img {
+        height: 33px;
+        width: 48px;
+    }
+    .top_line .delivery {
+        line-height: 20px;
+        text-align: center;
+        font-size: 0.9em;
+        margin-top: 7px;
+    }
+    .top_line .round_the_clock {
+        line-height: 20px;
+        font-size: 0.9em;
+    }
+    .top_line .card_body_block .choice {
+        margin: 2px;
+        width: 80%;
+        padding: 0;
+    }
+    .top_line .card_body_block .choice span {
+        font-size: 0.9em;
+    }
+
+    .top_line .card_body_block .col-sm-2, .col-sm-6 {
+        padding: 0;
+    }
+    .top_line .card_body_block {
+        font-size: 0.9em;
+    }
+    .top_line .round_the_clock {
+        display: none;
+    }
+
+    .ui.secondary.menu .item {
+        padding: 4px;
+    }
+
+    .ui .item .ui input {
+        width: 183px;
+    }
+    .ui.secondary.menu {
+        display: block;
+    }
+
+    .top_line .menu {
+        text-align: center;
+    }
+
+    .ui.cards {
+        display: block;
+    }
+    .ui.five.cards>.card {
+        width: 84%;
+        padding: 20px;
+        margin: 7px 5px 6px 23px;
+    }
+    .selectionMiddle .book_card_magaz .ListContent {
+        margin: 0;
+    }
+}

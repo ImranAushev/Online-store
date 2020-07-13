@@ -1,0 +1,147 @@
+.top_line {
+    height: auto;
+    background-color: #3a479c;
+    border-radius: 7px 7px 0 0;
+    color: #ffffff;
+}
+.top_line .ui {
+    padding: 0;
+    margin: 0;
+    border-radius: none;
+    border: 0.1px solid #3a479c;
+}
+.top_line .ui .item {
+    background-color: #3a479c;
+    border-radius: none;
+    background-color: #3a479c;
+    color: #fff;
+}
+.top_line .logo img {
+    margin-top: 5px;
+    margin-left: 7px;
+}
+.top_line .delivery {
+    line-height: 45px;
+}
+.top_line .round_the_clock {
+    line-height: 45px;
+    float: right;
+}
+
+.ui .item .ui input {
+    width: 424px;
+}
+.ui .item .ui i {
+    background-color: #3a479c;
+    color: #fff;
+}
+
+.ui.card>.extra, .ui.cards>.card>.extra {
+    color: #3a479c;
+}
+
+
+
+
+
+.footer {
+    background-color: #3a479c;
+    height: auto;
+    margin-top: 30px;
+    border-radius: 0px 0px 15px 15px;
+}
+
+.footer .footer_main .item {
+    list-style-type: none;
+    padding-top: 10px;
+}
+.footer_out_name {
+    font-size: 1.2em;
+    color: #ffffff;
+}
+
+.footer .adress {
+    margin-top: 28px;
+    text-align: center;
+    color: #ffffff;
+    font-size: 1.2em;
+}
+.footer .adress span {
+    display: block;
+    padding-top: 10px;
+}
+.name_autor_and_name_store {
+    text-align: center;
+    color: #ffffff;
+    margin-top: 45px;
+}
+.name_autor_and_name_store h5 {
+    padding: 0;
+    margin: 0;
+    padding-bottom: 5px;
+}
+.name_autor_and_name_store span {
+    font-size: 1.1em;
+}
+.footer .footer_main .item .map {
+    border: 2px solid #3a479c;
+    position: absolute;
+    left: 0;
+    bottom: 100px;
+}
+.footer .footer_main .item .map .close {
+    position: absolute;
+    right: 0;
+    color: #3a479c;
+    font-weight: bold;
+    font-size: 1.2em;
+    cursor: pointer;
+}
+.footer .footer_main .contacts {
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+    left: 0;
+    background-color: #fff;
+    border-radius: 6px;
+    border: 2px solid #3a479c;
+    color: #000;
+}
+.footer .footer_main .item .contacts .close {
+    position: absolute;
+    right: 0;
+    color: #3a479c;
+    font-weight: bold;
+    font-size: 1.2em;
+    cursor: pointer;
+}
+p {
+    margin-left: 10px;
+}
+p a {
+    color: #3a479c;
+    font-weight: bold;
+}
+
+.footer .footer_main .about {
+    position: absolute;
+    background-color: #fff;
+    border-radius: 6px;
+    border: 2px solid #3a479c;
+    color: #000;
+    bottom: 0;
+    left: 0;
+}
+.footer .footer_main .item .about .close {
+    position: absolute;
+    right: 0;
+    color: #3a479c;
+    font-weight: bold;
+    font-size: 1.2em;
+    cursor: pointer;
+}
+
+.footer .about {
+    z-index: 4;
+    margin-bottom: 55px;
+}

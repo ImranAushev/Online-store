@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  background-color: #ffffff;
+}
+
+.menu {
+  margin-bottom: 20px;
+}
+
+.card-image {
+  height: 200px;
+  overflow: hidden;
+}
+
+.card-image img {
+  height: 250px;
+  width: 100%;
+}
