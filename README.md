@@ -4,8 +4,10 @@ Stack:
 
 - ReactJS
 - Redux
-Redux Thunk
-React Logger
-Axios
-Lodash
-Semantic UI (React)
+- Redux Thunk
+- React Logger
+- Axios
+- Lodash
+- Semantic UI (React)
+- HTML5
+- CSS3
