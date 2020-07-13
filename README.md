@@ -2,8 +2,8 @@
 
 Stack:
 
-ReactJS
-Redux
+- ReactJS
+- Redux
 Redux Thunk
 React Logger
 Axios
