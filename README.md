@@ -1,4 +1,4 @@
-Интернет-магазин книг на React + Redux - http://aushev6d.beget.tech/
+Интернет-магазин книг на React + Redux - http://magazz.space/
 
 Stack:
 - ReactJS
