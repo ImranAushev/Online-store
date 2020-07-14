@@ -11,3 +11,6 @@ Stack:
 - Axios
 - Lodash
 - Semantic UI (React)
+
+Запуск:
+- npm start
